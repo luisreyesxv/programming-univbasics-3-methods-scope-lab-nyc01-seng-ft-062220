@@ -4,7 +4,7 @@ def mario
   puts phrase
 end
 
-def toadstool(phrase)
-  mario(phrase)
+def toadstool
+  mario
   puts status
 end
